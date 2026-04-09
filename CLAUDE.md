@@ -9,6 +9,7 @@ npm run setup        # Install deps + generate Prisma client + run migrations
 npm run dev          # Start dev server at http://localhost:3000 (Turbopack)
 npm run build        # Production build
 npm start            # Start production server
+npm run lint         # ESLint via next lint
 npm test             # Run all Vitest tests
 npm run db:reset     # Reset SQLite database
 ```
